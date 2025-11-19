@@ -55,7 +55,7 @@
     <div class="grid">
       <aside class="card" id="sidebar">
         <div style="display:flex;gap:14px;align-items:center">
-          <div class="avatar"><img id="profileImg" src="C:\Users\user\OneDrive\Desktop\assignment\profile.jpg" alt="Photo"/></div>
+          <div class="avatar"><img id="profileImg" src="profile.jpg" alt="Photo"/></div>
           <div>
             <h1 id="name">Darshan Ramakrishna Bheemagol</h1>
             <p class="role" id="title">Frontend Developer • UI/UX</p>
